@@ -1,0 +1,79 @@
+body{
+    background-color: #1D2326;
+    font-family: monospace;
+}
+
+.actions{
+    position: fixed;
+    top: 20px;
+    right: 350px;
+    color: #BFA38A;
+}
+
+.output{
+    margin-left: 20px;
+    margin-top: 10px;
+    color: #BFA38A;
+    display: inline-block;
+    position: sticky;
+    margin-right: 600px;
+}
+
+.actions .buttons a{
+    color: #BFA38A;
+}
+
+.actions .buttons #btn-1{
+    padding: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    background-color: rgb(54, 46, 46);
+    color: #BFA38A;
+}
+
+img{
+    width: 300px;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.actions .buttons #btn-4{
+    padding: 8px;
+    padding-left: 28px;
+    padding-right: 28px;
+    border-radius: 10px;
+    background-color: rgb(54, 46, 46);
+    color: #BFA38A;
+}
+
+.actions .buttons #btn-1-1{
+    padding: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    background-color: rgb(54, 46, 46);
+    color: #BFA38A;
+}
+
+.actions .buttons #btn-2{
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 48px;
+    padding-right: 48px;
+    border-radius: 10px;
+    background-color: rgb(54, 46, 46);
+    color: #BFA38A;
+}
+
+.actions .buttons #btn-3{
+    padding-left: 63px;
+    padding-right: 63px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    background-color: rgb(54, 46, 46);
+    color: #BFA38A;
+}
+
